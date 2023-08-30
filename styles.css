@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+
+}
+body{
+    margin: 0;
+}
+
+.flex-nav {
+    background-color: #1F2937;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    height: 60px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    gap: 30px;
+}
+
+header {
+    padding-left: 40px;
+
+}
+
+
